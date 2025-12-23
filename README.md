@@ -3,6 +3,7 @@
 This HTML-only version of my CV is for training purposes, on the journey of being web developer.
 
 <br>
+
 ## 1 - About The Project
 Main objective:
 * Learning HTML semantic, meta tags for SEO and inline CSS.
