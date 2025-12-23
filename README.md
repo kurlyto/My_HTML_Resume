@@ -1,26 +1,25 @@
-# HTML-only CV- <a href="https://moneypipe.herokuapp.com/">View Live Site</a>
+# HTML-only CV
 
 This HTML-only version of my CV is for training purposes, on the journey of being web developer.
+
 <br>
-
-
-
-## About The Project
-The 2 main reasons why I built this project:
-* Since I'm used to track all of my incomes and expenses for the past 3 years, I figured why not building my own personal tool that does exactly what I need.
+## 1 - About The Project
+Main objective:
 * Learning HTML semantic, meta tags for SEO and inline CSS.
 
-## How to Install
+## 2 - How to Install
 N/A
 
 
-## Technologies I Used
-HTML
-inline CSS
+## 3 - Technologies I Used
+<ul>
+  <li>HTML
+  <li>inline CSS</li>
+</ul>
 
-## Usage
+## 4 - Usage
 N/A
 
 
-## screen-shots
+## 5 - Screenshots
 N/A
